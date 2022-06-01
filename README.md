@@ -9,9 +9,9 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shivam5210/BanAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chandan7900/BanAllBot)
 
 # Credits
-* [Shivam Creator](https://github.com/shivam5210)
+* [Shivam Creator](https://github.com/Chandan7900)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 Start.py Shivay
